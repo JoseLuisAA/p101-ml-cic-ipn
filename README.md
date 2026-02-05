@@ -1,2 +1,6 @@
 # p101-ml-cic-ipn
-Práctica 1 del diplomado de Machine Learning CIC IPN Febrero 2026
+Práctica 1
+José Luis Aguilar
+## Centro de Investigación de Cómputo
+## Diplomado en Machine Learning
+Febrero 2026
